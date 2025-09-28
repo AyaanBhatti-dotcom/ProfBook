@@ -1,0 +1,7 @@
+
+fuzzywuzzy==0.18.0    # For approximate name matching
+
+
+```bash
+pip install fuzzywuzzy
+```
