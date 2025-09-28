@@ -13,7 +13,7 @@ IN YOUR CLASSES!!!
 By continuing, you agree to use this responsibly.
 
 
-##Installation##
+## Installation ##
 Simply run the code via
 ```bash
 python3 profbook.py
