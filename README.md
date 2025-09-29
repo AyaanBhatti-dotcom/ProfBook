@@ -16,5 +16,6 @@ By continuing, you agree to use this responsibly.
 ## Installation ##
 Simply run the code via
 ```bash
+cd ProfBook
 python3 profbook.py
 ```
